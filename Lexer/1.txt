@@ -1,0 +1,8 @@
+IF x + 5 = 5 + 2 THEN xIsSmall:
+RANDOM ( )
+LEFT$ ( "b" , 2 )
+RIGHT$ ( "c" , 3 )
+MID$ ( "d" , 4 , 5 )
+NUM$ ( 2.3 )
+VAL ( "e" )
+VAL$ ( "f" )
